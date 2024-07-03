@@ -23,7 +23,7 @@ Included in this chapter are various learning resources to help you grasp the co
 ## 🗂️ Access All Resources
 All the videos, slides, and code for this chapter are organized in our Google Drive folder. You can access them using the link below:
 
-[![Access Resources](https://img.shields.io/badge/Access-Resources-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1jbDC-uME2uN_U2emHWxN9lxzwOY0b0a9?usp=sharing)
+[![Access Resources](https://img.shields.io/badge/Access-Resources-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1OUcP303XD0P71-LRAFUSy19ieLIg6o7J?usp=sharing)
 
 ## 📞 Support
 For support, feel free to open an issue or submit a pull request.
