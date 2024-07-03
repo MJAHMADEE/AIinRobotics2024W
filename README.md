@@ -2,6 +2,11 @@
 
 Welcome to the official GitHub repository for the AI in Robotics course 2024. This course focuses on the integration of Artificial Intelligence techniques, specifically within the domain of robotics. 
 
+## 🗂️ Access All Resources
+All the videos, slides, and code for this chapter are organized in our Google Drive folder. You can access them using the link below:
+
+[![Access Resources](https://img.shields.io/badge/Access-Resources-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1OUcP303XD0P71-LRAFUSy19ieLIg6o7J?usp=sharing)
+
 ## 📘 Course Overview
 
 This comprehensive course provides an in-depth exploration of various AI technologies applied in the field of robotics. By combining theoretical knowledge with practical implementations, students will gain a robust understanding of how to enhance robotic systems with AI capabilities. Key topics include:
