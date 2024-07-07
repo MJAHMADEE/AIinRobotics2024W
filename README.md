@@ -35,7 +35,7 @@ This comprehensive course provides an in-depth exploration of various AI technol
 ### Simulator for Practical Experience
 - Utilization of the Webots simulator to provide a realistic environment where students can test and observe the behavior of their robotic models without the need for physical hardware.
 
-# 👥 Collaborators
+## 👥 Collaborators
 
 This section showcases the avatars of the main collaborators on this project. Click on any avatar to visit their GitHub profile and see their contributions.
 
