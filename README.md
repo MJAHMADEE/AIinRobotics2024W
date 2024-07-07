@@ -35,6 +35,50 @@ This comprehensive course provides an in-depth exploration of various AI technol
 ### Simulator for Practical Experience
 - Utilization of the Webots simulator to provide a realistic environment where students can test and observe the behavior of their robotic models without the need for physical hardware.
 
+# 👥 Collaborators
+
+This section showcases the avatars of the main collaborators on this project. Click on any avatar to visit their GitHub profile and see their contributions.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/hassanyousefzade">
+        <img src="https://github.com/hassanyousefzade.png" width="80" height="80" alt="hassanyousefzade" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/hassanyousefzade">hassanyousefzade</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mhtayebzadeh">
+        <img src="https://github.com/mhtayebzadeh.png" width="80" height="80" alt="mhtayebzadeh" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/mhtayebzadeh">mhtayebzadeh</a>
+    </td>
+  </tr>
+</table>
+
+## 📚 Citation
+
+### BibTeX
+
+To cite this resource in a publication or academic paper, you can use the following BibTeX entry:
+
+```bibtex
+@misc{MJAHMADEE2024,
+  author = {Amirkabir University of Technology},
+  title = {AI in Robotics Course 2024},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/MJAHMADEE/AIinRobotics2024W}}
+}
+```
+### IEEE Format
+
+For those who are using the IEEE citation style, the following format can be used:
+
+```
+Amirkabir University of Technology, "Machine Learning Course 2024," GitHub repository, 2024. [Online]. Available: https://github.com/MJAHMADEE/MachineLearning2024W
+```
 ## 📚 Resources
 
 The course includes detailed reading materials, recorded video lectures, and practical assignments to deepen understanding and provide hands-on experience. Each topic's folder contains dedicated resources for further exploration and study.
@@ -52,3 +96,5 @@ For support or inquiries, feel free to open an issue within the repository. We a
 This repository's content and code are under the MIT License, allowing for broad usage and distribution with appropriate credit.
 
 Wishing you an exciting and productive journey through the world of AI in Robotics!
+
+🚀 Happy learning!
